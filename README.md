@@ -22,7 +22,6 @@ in culinary traditions** and help users explore cuisine scientifically.
 ### Installation
 
 To use this project from GitHub, clone the repository and install it locally:
-
 ```bash
 git clone https://github.com/Nishchayyadav/GastroLib.git
 cd GastroLib
